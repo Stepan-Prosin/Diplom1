@@ -13,6 +13,8 @@ android {
     compileSdkVersion 32
     buildToolsVersion "30.0.3"
 
+    namespace 'ru.iteco.fmhandroid' // Добавьте эту строку
+
     defaultConfig {
         applicationId "ru.iteco.fmhandroid"
         minSdkVersion 21

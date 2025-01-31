@@ -1,7 +1,4 @@
-package ru.iteco.fmhandroid.ui;
-
-import android.view.View;
-import android.widget.Toast;
+package Pages;
 
 import androidx.test.espresso.Root;
 import androidx.test.espresso.matcher.BoundedMatcher;
